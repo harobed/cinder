@@ -80,3 +80,7 @@ pre {
 footer > hr {
     width: 35%;
 }
+
+.container-fluid .navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+}
